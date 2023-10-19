@@ -1,0 +1,2 @@
+# .github
+MapTiler organization profile
