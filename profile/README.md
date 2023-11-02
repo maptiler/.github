@@ -24,49 +24,19 @@ MapTiler contributes to and supports different open-source projects. Join the [c
 ### Connect with MapTiler:
 
 <p align="left">
- <div style="background-color: #333359; width: 40px;
-    height: 40px; border-radius: 50%; position: relative; display: inline-block;">
-  <a target="_blank" href="https://twitter.com/MapTiler" style="margin: 0;
-  position: absolute; top: 55%; left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);">
-  <img src="https://www.maptiler.com/styles/style/icon/extra/twitter-white.svg" style="transform: scale(0.85); width: 40px; height: 40px">
+  <a target="_blank" href="https://twitter.com/MapTiler">
+  <img src="./assets/twitter.svg" />
   </a>
-  </div>
-   <div style="background-color: #333359; width: 40px;
-    height: 40px; border-radius: 50%; position: relative; display: inline-block;">
-  <a target="_blank" href="https://www.youtube.com/channel/UCubcQeWuBKvqpMu172CLEXw" style="margin: 0;
-  position: absolute; top: 55%; left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);">
-  <img src="https://www.maptiler.com/styles/style/icon/extra/ytb-white.svg" style="transform: scale(0.85); width: 40px; height: 40px">
+  <a target="_blank" href="https://www.youtube.com/channel/UCubcQeWuBKvqpMu172CLEXw">
+  <img src="./assets/youtube.svg">
   </a>
-  </div>
-   <div style="background-color: #333359; width: 40px;
-    height: 40px; border-radius: 50%; position: relative; display: inline-block;">
-  <a target="_blank" href="https://www.linkedin.com/company/maptiler" style="margin: 0;
-  position: absolute; top: 55%; left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);">
-  <img src="https://www.maptiler.com/styles/style/icon/extra/linkedin-white.svg" style="transform: scale(0.85); width: 40px; height: 40px">
+  <a target="_blank" href="https://www.linkedin.com/company/maptiler">
+  <img src="./assets/linkedin.svg">
   </a>
-  </div>
-<div style="background-color: #333359; width: 40px;
-    height: 40px; border-radius: 50%; position: relative; display: inline-block;">
-  <a target="_blank" href="https://www.instagram.com/maptiler/" style="margin: 0;
-  position: absolute; top: 55%; left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);">
-  <img src="https://www.maptiler.com/styles/style/icon/extra/ig-white.svg" style="transform: scale(0.85); width: 40px; height: 40px">
+  <a target="_blank" href="https://www.instagram.com/maptiler/">
+  <img src="./assets/instagram.svg">
   </a>
-  </div>
-  <div style="background-color: #333359; width: 40px;
-    height: 40px; border-radius: 50%; position: relative; display: inline-block;">
-  <a target="_blank" href="https://www.facebook.com/maptiler/" style="margin: 0;
-  position: absolute; top: 55%; left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);">
-  <img src="https://www.maptiler.com/styles/style/icon/extra/facebook-white.svg" style="transform: scale(0.85); width: 40px; height: 40px">
+  <a target="_blank" href="https://www.facebook.com/maptiler/">
+  <img src="./assets/facebook.svg">
   </a>
-  </div>
 </p>
