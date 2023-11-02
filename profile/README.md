@@ -11,7 +11,7 @@ Speed up your development by using our SDK, API-consuming library, CLI tools for
   <a href="https://docs.maptiler.com/sdk-js/">Docs</a> ·
   <a href="https://docs.maptiler.com/sdk-js/examples/">Examples</a> ·
   <a href="https://docs.maptiler.com/api-clients/">API Clients</a> ·
-  <a href="https://docs.maptiler.com/cloud/api/">API Reference</a> ·
+  <a href="https://docs.maptiler.com/cloud/api/">API Reference</a>
   </h3>
 </div>
 
