@@ -24,19 +24,19 @@ MapTiler contributes to and supports different open-source projects. Join the [c
 ### Connect with MapTiler:
 
 <p align="left">
-  <a target="_blank" href="https://twitter.com/MapTiler">
+  <a target="_blank" href="https://twitter.com/MapTiler" style="text-decoration: none;">
   <img src="./assets/twitter.svg" />
   </a>
-  <a target="_blank" href="https://www.youtube.com/channel/UCubcQeWuBKvqpMu172CLEXw">
+  <a target="_blank" href="https://www.youtube.com/channel/UCubcQeWuBKvqpMu172CLEXw" style="text-decoration: none;">
   <img src="./assets/youtube.svg">
   </a>
-  <a target="_blank" href="https://www.linkedin.com/company/maptiler">
+  <a target="_blank" href="https://www.linkedin.com/company/maptiler" style="text-decoration: none;">
   <img src="./assets/linkedin.svg">
   </a>
-  <a target="_blank" href="https://www.instagram.com/maptiler/">
+  <a target="_blank" href="https://www.instagram.com/maptiler/" style="text-decoration: none;">
   <img src="./assets/instagram.svg">
   </a>
-  <a target="_blank" href="https://www.facebook.com/maptiler/">
+  <a target="_blank" href="https://www.facebook.com/maptiler/" style="text-decoration: none;">
   <img src="./assets/facebook.svg">
   </a>
 </p>
