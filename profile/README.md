@@ -1,4 +1,4 @@
-# Maps for developers 🗺️
+# [Maps for developers 🗺️](https://www.maptiler.com/)
 
 ![MapTiler - Maps for developers](/profile/assets/maptiler.jpg)
 
@@ -21,7 +21,7 @@ Refer your customers by integrating MapTiler maps into their products, websites,
 
 MapTiler contributes to and supports different open-source projects. Join the [community](https://www.maptiler.com/open-source/).
 
-### Connect with MapTiler:
+### [Connect with MapTiler:](https://www.maptiler.com/contacts/)
 
 [![MapTiler - Twitter](/profile/assets/twitter_color.svg)](https://twitter.com/MapTiler)
 [![MapTiler - Youtube](/profile/assets/youtube_color.svg)](https://www.youtube.com/channel/UCubcQeWuBKvqpMu172CLEXw)
