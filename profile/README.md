@@ -23,8 +23,8 @@ MapTiler contributes to and supports different open-source projects. Join the [c
 
 ### Connect with MapTiler:
 
-[![MapTiler - Twitter](/profile/assets/twitter.svg)](https://twitter.com/MapTiler)
-[![MapTiler - Youtube](/profile/assets/youtube.svg)](https://www.youtube.com/channel/UCubcQeWuBKvqpMu172CLEXw)
-[![MapTiler - Linkedin](/profile/assets/linkedin.svg)](https://www.linkedin.com/company/maptiler)
-[![MapTiler - Instagram](/profile/assets/instagram.svg)](https://www.instagram.com/maptiler/)
-[![MapTiler - Facebook](/profile/assets/facebook.svg)](https://www.facebook.com/maptiler/)
+[![MapTiler - Twitter](/profile/assets/twitter_color.svg)](https://twitter.com/MapTiler)
+[![MapTiler - Youtube](/profile/assets/youtube_color.svg)](https://www.youtube.com/channel/UCubcQeWuBKvqpMu172CLEXw)
+[![MapTiler - Linkedin](/profile/assets/linkedin_color.svg)](https://www.linkedin.com/company/maptiler)
+[![MapTiler - Instagram](/profile/assets/instagram_color.svg)](https://www.instagram.com/maptiler/)
+[![MapTiler - Facebook](/profile/assets/facebook_color.svg)](https://www.facebook.com/maptiler/)
